@@ -8,7 +8,7 @@
     "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
-            "Zzac\\LOpenSpeech\\": "src/"
+            "Zzac\\LOpenSpeech\\": "src"
         }
     },
     "authors": [
@@ -24,7 +24,7 @@
                 "Zacz\\LOpenSpeech\\OpenSpeechProvider"
             ],
             "aliases": {
-                "MessageHelper": "Zzac\\LOpenSpeech\\Facade\\OpenSpeech"
+                "OpenSpeech": "Zzac\\LOpenSpeech\\Facade\\OpenSpeech"
             }
         }
     }
