@@ -3,7 +3,7 @@
     "description": "Laravel OpenSpeech",
     "type": "library",
     "require": {
-        "php": "^7"
+        "php": ">=7"
     },
     "license": "Apache-2.0",
     "autoload": {
